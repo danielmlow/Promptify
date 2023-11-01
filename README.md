@@ -44,7 +44,7 @@ pip3 install promptify
 or
 
 ```bash
-pip3 install git+https://github.com/promptslab/Promptify.git
+pip3 install git+https://github.com/danielmlow/Promptify.git
 ```
 
 ## Quick tour
